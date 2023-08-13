@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on storage systems.
+🔭 Currently, I am interested in research on distributed systems. 
 <!--
 **nachocodexx/nachocodexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
