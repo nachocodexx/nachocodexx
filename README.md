@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 Currently, I am interested in research on distributed systems. 
+🔭 I am currently conducting research on storage systems in ephemeral environments.
 <!--
 **nachocodexx/nachocodexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
